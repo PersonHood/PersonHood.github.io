@@ -1,5 +1,7 @@
 # GitHub Pages
 
+Download the latest `Release` zip file.
+
 > [Github Pages](https://Personhood.github.io) 
 
 [  this is a comment. all on one line. it takes up vertical space. it is not displayed ]::
