@@ -1,8 +1,10 @@
 # GitHub Pages
 
-Download the latest `Release` zip file.
+Download the latest `Release`.
 
-> [Github Pages](https://Personhood.github.io) 
+>[zip](https://github.com/PersonHood/PersonHood.github.io/archive/refs/tags/v1.0.zip)
+
+> View [Github Pages](https://Personhood.github.io) 
 
 [  this is a comment. all on one line. it takes up vertical space. it is not displayed ]::
 
