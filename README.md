@@ -168,4 +168,4 @@ menu: | [top](#header-1) | [text](#text) | [code](#code) | [list](#list) | [link
 
 `![ImageLabel](./img/filename.jpg)`
 
-![Image](./img/img-stick-figures-474x498.jpg)
+![Image](./bin/jpg/img-stick-figures-474x498.jpg)
